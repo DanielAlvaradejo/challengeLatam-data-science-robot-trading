@@ -1,4 +1,4 @@
-# 🤖 Robot Trading Data Science Challenge
+#  <img src="https://github.com/DanielAlvaradejo/challengeLatam-data-science-robot-trading/assets/84923265/b11195be-a032-4075-8489-d987e6d3df8d" width="100" height="100"> Robot Trading Data Science Challenge  <img src="https://github.com/DanielAlvaradejo/challengeLatam-data-science-robot-trading/assets/84923265/b11195be-a032-4075-8489-d987e6d3df8d" width="100" height="100">
 
 ## Descripción del Proyecto
 Se realizó un robot de trading para crear alertas de compra/venta de Bitcoin con el uso de un algoritmos básico, así como el uso de indices como MACD y Oscilador estocástico.
